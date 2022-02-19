@@ -1,4 +1,4 @@
-# Kolja Sulimma personal website
+# Kolja Sulimma
 
 This repository holds a small static website with content information about me.
 
