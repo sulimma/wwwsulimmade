@@ -39,4 +39,12 @@ Langjährige Arbeit am Institut für Kernphysik in Frankfurt bei Dieter Röhrich
 * Datenkompression auf DSPs für NA49
 * Datenerfassung und Kompression in FPGAs für ALICE und STAR
 * erste Implementierung des Scalable Coherent Interconnect (SCI) auf FPGAs
+------
+
+#### Datenschutz
+
+Ich bin mein eigener Datenschutzbeauftragter, meine Kontaktdaten stehen oben. Ich speichere oder Verarbeite auf dieser Seite überhaupt keine personenbezogenen Daten.
+Die Seite wird bei GitHub-Pages gehostet. Ich habe keine Kontrolle darüber, welche Daten GitHub erhebt und kann diese auch nicht einsehen.
+GitHub [weist darauf hin](https://docs.github.com/en/github/site-policy/github-privacy-statement#additional-services), dass sie evtl. IP-Adressen und andere Daten der Besucher protokollieren, um gesetzlichen Anforderungen zu genügen und die Sicherheit und integrietät des Dienstes zu gewährleisten.
+GitHub hat eine eigene [Datenschutzerklärung](https://docs.github.com/en/github/site-policy/github-privacy-statement) veröffentlicht und ist über ein [Kontaktformular](https://support.github.com/contact/privacy) erreichbar..
 
