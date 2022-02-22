@@ -39,6 +39,8 @@ Langjährige Arbeit am Institut für Kernphysik in Frankfurt bei Dieter Röhrich
 * Datenkompression auf DSPs für NA49
 * Datenerfassung und Kompression in FPGAs für ALICE und STAR
 * erste Implementierung des Scalable Coherent Interconnect (SCI) auf FPGAs
+
+
 ------
 
 #### Datenschutz
