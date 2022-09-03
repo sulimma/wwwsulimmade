@@ -4,8 +4,6 @@
 Kolja Sulimma
 Bahnhofstr. 31
 61194 Niddatal-Assenheim
-
-069 173 20 25 61
 ```
 [Standort auf Karte](https://goo.gl/maps/7rdzXukSJka1XxhJ9)
 
