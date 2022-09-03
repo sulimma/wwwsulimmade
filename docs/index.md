@@ -5,7 +5,8 @@ Kolja Sulimma
 Bahnhofstr. 31
 61194 Niddatal
 
-069 173 20 25 61
+Arbeit: 069 173 20 25 61
+Privat: 0176 856 266 54 
 ```
 [Standort auf Karte](https://goo.gl/maps/7rdzXukSJka1XxhJ9)
 
