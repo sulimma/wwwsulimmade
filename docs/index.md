@@ -24,6 +24,8 @@ Die Regelalgorithmen beziehen die Microcontroller per MQTT vom Server wenn diese
 
 
 ## Ehemalige Projekte
+### [Liebe Viele](https://www.maverickfilm.de/liebeviele)
+Ein Dokumentarfilm von Regisseurin Vera Drude, unter anderem über mein Beziehungsnetzwerk 
 
 ### [Eintracht Frankfurt Ultimate Frisbee](https://ultimate-frisbee.eintracht.de/)
 Hier war ich viele Jahre lang Trainer, Spieler und Vorstand.
@@ -33,7 +35,7 @@ Hier war ich mit meiner Promotion beschäftigt, die ich dann zugunsten meiner Fi
 Vor dem Umzug nach Kaiserslautern gehörte die Arbeitsgruppe zum Fachbereich Informatik der Universität Frankfurt.
 
 ### [Berkeley Reconfigurabe Architectures, Systems and Software, BRASS](http://brass.cs.berkeley.edu/)
-Forschung an FPGA-Architekturen mit getakteter Verdrahtung bei Prof. John Warzynek un André DeHon. Außerdem Arbeit an IRAM mit Prof. Dabe Patterson.
+Forschung an FPGA-Architekturen mit getakteter Verdrahtung bei Prof. John Warzynek und André DeHon. Außerdem Arbeit an IRAM mit Prof. Dave Patterson.
 
 ### Datenerfassung in der Kernphysik 
 Langjährige Arbeit am Institut für Kernphysik in Frankfurt bei Dieter Röhrich und Volker Lindenstruth. Zeitweise auch am CERN (Genf), LBNL (Berkeley) und BNL (Brookhaven). 
