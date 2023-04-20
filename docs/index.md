@@ -6,16 +6,19 @@ Bahnhofstr. 31
 61194 Niddatal
 
 Arbeit: 069 173 20 25 61
-Privat: 0176 856 266 54 
+Privat: 0176 856 266 54
+E-Mail: kolja at sulimma . de 
 ```
 [Standort auf Karte](https://goo.gl/maps/7rdzXukSJka1XxhJ9)
 
 ## Projekte
+### [Klimaneutrale Gewerbeimmobilie in Leipzig](https://www.immobilienscout24.de/scoutmanager/exposemanager/137997271)
+830m² in Eutritzsch, frei ab Juli 2023.
 
 ### [cronologic](https://www.cronologic.de)
 Wir stellen Datenerfassungshardware für die Vermessungen von elektrischen Impulsen mit einer Auflösung von wenigen Pikosekunden her.  
 
-### [Ewaldshof](https://www.ewaldshof.de/)
+### [Ewaldshof e. V.](https://www.ewaldshof.de/)
 Das Wohnprojekt in dem ich lebe.
 
 ### [EWHome](https://github.com/ewaldshof/ewhome)
