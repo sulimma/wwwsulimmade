@@ -46,6 +46,9 @@ Langjährige Arbeit am Institut für Kernphysik in Frankfurt bei Dieter Röhrich
 * Datenerfassung und Kompression in FPGAs für ALICE und STAR
 * erste Implementierung des Scalable Coherent Interconnect (SCI) auf FPGAs
 
+### [ProWoKultA e. V.](http://www.daheimamberg.org/kulta.html)
+Projekte für Wohnen, Kultur und Aktion e.V.. Das erste Wohnprojekt das ich gegründet habe und in dem ich 22 Jahre gewohnt habe.
+
 
 ------
 
