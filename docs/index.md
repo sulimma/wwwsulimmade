@@ -12,7 +12,7 @@ E-Mail: kolja at sulimma . de
 [Standort auf Karte](https://goo.gl/maps/7rdzXukSJka1XxhJ9)
 
 ## Projekte
-### [Klimaneutrale Gewerbeimmobilie in Leipzig](https://www.immobilienscout24.de/scoutmanager/exposemanager/137997271)
+### [Klimaneutrale Gewerbeimmobilie in Leipzig](https://www.immobilienscout24.de/expose/137997271)
 830m² in Eutritzsch, zu vermieten ab Oktober 2024.
 
 ### [cronologic](https://www.cronologic.de)
