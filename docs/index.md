@@ -12,7 +12,7 @@ E-Mail: kolja at sulimma . de
 [Standort auf Karte](https://goo.gl/maps/7rdzXukSJka1XxhJ9)
 
 ## Projekte
-### [Klimaneutrale Gewerbeimmobilie in Leipzig](https://www.immobilienscout24.de/expose/148019658)
+### [Gewerbeimmobilie in Leipzig](https://www.immobilienscout24.de/expose/148019658)
 830m² in Eutritzsch, zu vermieten oder verkaufen. Frei ab Oktober 2024.
 
 ### [cronologic](https://www.cronologic.de)
@@ -20,6 +20,9 @@ Wir stellen Datenerfassungshardware für die Vermessungen von elektrischen Impul
 
 ### [Ewaldshof e. V.](https://www.ewaldshof.de/)
 Das Wohnprojekt in dem ich lebe.
+
+### [Akademie Ewaldshof e. V.](https://www.ewaldshof.de/)
+Ein gemeinnütziger Verein für sexuelle Kultur und Beziehungsvielfalt.
 
 ### [EWHome](https://github.com/ewaldshof/ewhome)
 Ein Gebäudesteuerungssystem bei dem die Steuerungsalgorithmen lokal auf den Microcontrollern abgearbeitet werden so dass die Heizung auch bei einem Serverausfall weiter läuft.
