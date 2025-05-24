@@ -1,22 +1,26 @@
 # Kolja Sulimma
-
+## Briefpost
+```
+Kolja Sulimma
+Scanbox #15577
+Ehrenbergstr. 16a
+10245 Berlin
+```
+## Lieferungen, persönliche Zustellungen, Originalurkunden
 ```
 Kolja Sulimma
 Bahnhofstr. 31
-61194 Niddatal
-
-Arbeit: 069 173 20 25 61
-Privat: 0176 856 266 54
-E-Mail: kolja at sulimma . de 
+61194 Niddatal-Assenheim
+NICHT NACHSENDEN
 ```
 [Standort auf Karte](https://goo.gl/maps/7rdzXukSJka1XxhJ9)
 
 ## Projekte
 ### [Gewerbeimmobilie in Leipzig](https://www.immobilienscout24.de/expose/148019658)
-830m² in Eutritzsch, zu vermieten oder verkaufen. Frei ab Oktober 2024.
+830m² in Eutritzsch, Berliner Str. 81a Hinterhaus zu vermieten oder zu verkaufen. .
 
 ### [cronologic](https://www.cronologic.de)
-Wir stellen Datenerfassungshardware für die Vermessungen von elektrischen Impulsen mit einer Auflösung von wenigen Pikosekunden her.  
+Wir stellen Datenerfassungshardware für die Vermessungen von elektrischen Impulsen mit einer Auflösung von wenigen Pikosekunden her. TDCs mit bis zu 3ps Auflösung und ADCs mit bis zu 8x 14 Bit, 5 Gsps. Bald auch InGaAs SPAD Einzelphotonendetektoren.
 
 ### [Ewaldshof e. V.](https://www.ewaldshof.de/)
 Das Wohnprojekt in dem ich lebe.
@@ -27,7 +31,6 @@ Ein gemeinnütziger Verein für sexuelle Kultur und Beziehungsvielfalt.
 ### [EWHome](https://github.com/ewaldshof/ewhome)
 Ein Gebäudesteuerungssystem bei dem die Steuerungsalgorithmen lokal auf den Microcontrollern abgearbeitet werden so dass die Heizung auch bei einem Serverausfall weiter läuft.
 Die Regelalgorithmen beziehen die Microcontroller per MQTT vom Server wenn dieser erreichbar ist.
-
 
 ## Ehemalige Projekte
 ### [Liebe Viele](https://www.maverickfilm.de/liebeviele)
@@ -52,12 +55,11 @@ Langjährige Arbeit am Institut für Kernphysik in Frankfurt bei Dieter Röhrich
 ### [ProWoKultA e. V.](http://www.daheimamberg.org/kulta.html)
 Projekte für Wohnen, Kultur und Aktion e.V.. Das erste Wohnprojekt das ich gegründet habe und in dem ich 22 Jahre gewohnt habe.
 
-
 ------
 
 #### Datenschutz
 
-Ich bin mein eigener Datenschutzbeauftragter, meine Kontaktdaten stehen oben. Ich speichere oder Verarbeite auf dieser Seite überhaupt keine personenbezogenen Daten.
+Ich bin mein eigener Datenschutzbeauftragter, meine Kontaktdaten stehen oben. Ich speichere oder verarbeite auf dieser Seite überhaupt keine personenbezogenen Daten.
 Die Seite wird bei GitHub-Pages gehostet. Ich habe keine Kontrolle darüber, welche Daten GitHub erhebt und kann diese auch nicht einsehen.
 GitHub [weist darauf hin](https://docs.github.com/en/github/site-policy/github-privacy-statement#additional-services), dass sie evtl. IP-Adressen und andere Daten der Besucher protokollieren, um gesetzlichen Anforderungen zu genügen und die Sicherheit und integrietät des Dienstes zu gewährleisten.
 GitHub hat eine eigene [Datenschutzerklärung](https://docs.github.com/en/github/site-policy/github-privacy-statement) veröffentlicht und ist über ein [Kontaktformular](https://support.github.com/contact/privacy) erreichbar..
