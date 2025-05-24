@@ -1,17 +1,24 @@
 # Kolja Sulimma
-## Briefpost
+## Kontaktdaten
+### Briefpost
 ```
 Kolja Sulimma
 Scanbox #15577
 Ehrenbergstr. 16a
 10245 Berlin
 ```
-## Lieferungen, persönliche Zustellungen, Originalurkunden
+### Lieferungen, persönliche Zustellungen, Originalurkunden
 ```
 Kolja Sulimma
 Bahnhofstr. 31
 61194 Niddatal-Assenheim
 NICHT NACHSENDEN
+```
+### Telefon und E-Mail
+```
+Arbeit: 069 173 20 25 61
+Privat: 0176 856 266 54
+E-Mail: kolja at sulimma . de
 ```
 [Standort auf Karte](https://goo.gl/maps/7rdzXukSJka1XxhJ9)
 
