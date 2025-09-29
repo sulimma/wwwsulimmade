@@ -23,11 +23,9 @@ E-Mail: kolja at sulimma . de
 [Standort auf Karte](https://goo.gl/maps/7rdzXukSJka1XxhJ9)
 
 ## Projekte
-### [Gewerbeimmobilie in Leipzig](https://www.immobilienscout24.de/expose/148019658)
-830m² in Eutritzsch, Berliner Str. 81a Hinterhaus zu vermieten oder zu verkaufen. .
-
 ### [cronologic](https://www.cronologic.de)
 Wir stellen Datenerfassungshardware für die Vermessungen von elektrischen Impulsen mit einer Auflösung von wenigen Pikosekunden her. TDCs mit bis zu 3ps Auflösung und ADCs mit bis zu 8x 14 Bit, 5 Gsps. Bald auch InGaAs SPAD Einzelphotonendetektoren.
+Anwendungen sind TOF-MS, FLIM, QKD, Quantencomputer, LIDAR und anderes.
 
 ### [Ewaldshof e. V.](https://www.ewaldshof.de/)
 Das Wohnprojekt in dem ich lebe.
@@ -39,12 +37,12 @@ Ein gemeinnütziger Verein für sexuelle Kultur und Beziehungsvielfalt.
 Ein Gebäudesteuerungssystem bei dem die Steuerungsalgorithmen lokal auf den Microcontrollern abgearbeitet werden so dass die Heizung auch bei einem Serverausfall weiter läuft.
 Die Regelalgorithmen beziehen die Microcontroller per MQTT vom Server wenn dieser erreichbar ist.
 
+### [Eintracht Frankfurt Ultimate Frisbee](https://ultimate-frisbee.eintracht.de/)
+Hier war ich viele Jahre lang Trainer, Spieler und Vorstand. Inzwischen spielt dort mein Sohn.
+
 ## Ehemalige Projekte
 ### [Liebe Viele](https://www.maverickfilm.de/liebeviele)
 Ein Dokumentarfilm von Regisseurin Vera Drude, unter anderem über mein Beziehungsnetzwerk 
-
-### [Eintracht Frankfurt Ultimate Frisbee](https://ultimate-frisbee.eintracht.de/)
-Hier war ich viele Jahre lang Trainer, Spieler und Vorstand.
 
 ### [Entwurf Informationstechnischer Systeme, TU Kaiserslautern](https://www.eit.uni-kl.de/eis/people/kunz/)
 Hier war ich mit meiner Promotion beschäftigt, die ich dann zugunsten meiner Firma abgebrochen habe.
